@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Wesley Costa's Github Stats](https://github-readme-stats.vercel.app/api?username=wescosta&theme=transparent&show_icons=true&count_private=true&include_all_commits=true)
+![Wesley Costa's Github Stats](https://github-stats-git-main-wescostas-projects.vercel.app/api?username=wescosta&theme=transparent&show_icons=true&count_private=true&include_all_commits=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wescosta&layout=compact)](https://github.com/wescosta/github-readme-stats)
+![Top Langs](https://github-stats-git-main-wescostas-projects.vercel.app/api/top-langs/?username=wescosta&layout=compact&langs_count=10)
